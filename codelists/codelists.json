@@ -1,3 +1,16 @@
 {
-  "files": {}
+  "files": {
+    "opensafely-care-planning-medication-review-simple-reference-set-nhs-digital.csv": {
+      "id": "opensafely/care-planning-medication-review-simple-reference-set-nhs-digital/61b13c39",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/care-planning-medication-review-simple-reference-set-nhs-digital/61b13c39/",
+      "downloaded_at": "2022-02-22 15:06:50.861268Z",
+      "sha": "40e14bd0b0bea5057db28eb44e3c22624b17046a"
+    },
+    "opensafely-alanine-aminotransferase-alt-tests.csv": {
+      "id": "opensafely/alanine-aminotransferase-alt-tests/2298df3e",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/alanine-aminotransferase-alt-tests/2298df3e/",
+      "downloaded_at": "2022-02-22 15:06:51.083399Z",
+      "sha": "0d231653e5ece343f6945309d21fc40c7f685ff2"
+    }
+  }
 }
