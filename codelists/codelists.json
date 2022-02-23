@@ -11,6 +11,12 @@
       "url": "https://codelists.opensafely.org/codelist/opensafely/alanine-aminotransferase-alt-tests/2298df3e/",
       "downloaded_at": "2022-02-22 15:06:51.083399Z",
       "sha": "0d231653e5ece343f6945309d21fc40c7f685ff2"
+    },
+    "opensafely-ethnicity.csv": {
+      "id": "opensafely/ethnicity/2020-04-27",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/ethnicity/2020-04-27/",
+      "downloaded_at": "2022-02-23 14:26:58.957689Z",
+      "sha": "3d2f3998b71863a80b24d60f6f4282e14191ae13"
     }
   }
 }
